@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className='flex items-center justify-center bg-gray-400'>
-      <h1 className=' font-extrabold'>hello world</h1>
+      <h1 className=' font-extrabold'>hello world my self irfan hashmi</h1>
       </div>
     </>
   )
